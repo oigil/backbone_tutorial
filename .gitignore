@@ -1,0 +1,7 @@
+.idea
+.log
+*.db
+node_modules
+.DS_Store
+REVISION
+npm.error.log
